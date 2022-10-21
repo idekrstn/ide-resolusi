@@ -1,5 +1,5 @@
 Resolusi Saya
 - Saya ingin konsisten untuk belajar menguasai html, css, javascript
 - Saya ingin belajar framework React.js dan framework css
-- Membuat website dengan codingan hasil kreasi sendiri
 - Mengupload website buatan sendiri pada web hosting
+- Membuat konten
