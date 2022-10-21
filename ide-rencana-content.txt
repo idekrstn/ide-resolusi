@@ -2,9 +2,11 @@ RENCANA KONTEN KEDEPANNYA
 - Javascript
   > ES6
   > Framework Javascript
-    - Angular
-    - React
+    - view
+    - React 
+- Struktur Data Dasar
 - PHP Framework
   > Laravel
 - Interview
 - Vlogs
+- Python
