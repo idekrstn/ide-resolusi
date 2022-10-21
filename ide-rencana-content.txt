@@ -3,6 +3,7 @@ RENCANA KONTEN KEDEPANNYA
   > ES6
   > Framework Javascript
     - view
+    - React 
 - Struktur Data Dasar
 - PHP Framework
   > Laravel
