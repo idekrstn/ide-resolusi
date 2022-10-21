@@ -1,0 +1,5 @@
+RENCANA KONTEN KEDEPANNYA
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
